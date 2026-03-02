@@ -64,6 +64,6 @@ We may update this Privacy Policy from time to time. Updated versions will be po
 
 If you have questions about this Privacy Policy, contact us at:
 
-- Email: **[YOUR_EMAIL_HERE]**
-- Developer/Organization: **[YOUR_NAME_OR_COMPANY]**
+- Email: **[azizconi1@gmail.com]**
+- Developer/Organization: **[Azizjon]**
 
